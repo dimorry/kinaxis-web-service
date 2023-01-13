@@ -13,10 +13,11 @@ def UploadDataFiles():
         
         for file in ds['files']:
             file_name = file['Name']
-            if file_name == "CurrencyConversionForecast":
+            if file_name == "CurrencyConversionActual":
                 payload = file['Payload']
                 
                 # call service to get data
+                # yesterday = datetime(2023,1,1)
                 data = GetCurrencyXChangeRate(yesterday)
                 
                 # add data to payload

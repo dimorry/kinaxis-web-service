@@ -5,16 +5,15 @@ CONVERSION_RATE_QUERY_STRING = {
     "symbols": "EUR,GBP,RON"
 }
 
-KINAXIS_INSTANCE = "ETND02_DEV01"
 KINAXIS_DSM = [{
         "DataSource": "load_currencies_ds",
-        "IntegrationScenario": "load currency data",
+        "IntegrationScenario": "Currency",
         "files" : [
                     {
-                        "Name": "CurrencyConversionForecast",
+                        "Name": "CurrencyConversionActual",
                         "Payload": {
                                 "Scenario": {
-                                    "Name": "load currency data",
+                                    "Name": "Currency",
                                     "Scope": "Public"
                                 },
                                 "Columns": ["Currency.Value", "Date", "Rate"],
@@ -29,6 +28,7 @@ KINAXIS_DSM = [{
      }
 ]
 
+KINAXIS_INSTANCE = "ETND02_DEV01"
 KINAXIS_BASE_URI = "https://na3.kinaxis.net/{instance}/integration/V1/"
 KINAXIS_FILE_UPLOAD_URI = KINAXIS_BASE_URI + "dataload/{data_source}/{file}"
 
