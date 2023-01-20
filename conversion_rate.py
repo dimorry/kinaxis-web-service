@@ -1,14 +1,16 @@
 import requests
 
-from datetime import datetime
+from datetime import date, timedelta, datetime
 from settings import CONVERSION_RATE_QUERY_STRING, CONVERSION_RATE_URI
 from secret import CONVERSION_RATE_API_KEY
 
 
-def GetCurrencyXChangeRate(date):
+def GetCurrencyXChangeRate():
     payload = ""
     data = []
-    url = CONVERSION_RATE_URI + date.strftime("%Y-%m-%d")
+    yesterday = date.today() + timedelta(days= -1)
+    
+    url = CONVERSION_RATE_URI + yesterday.strftime("%Y-%m-%d")
     
     currency_xchange_response = requests.request("GET", url, data=payload, headers=CONVERSION_RATE_API_KEY, params=CONVERSION_RATE_QUERY_STRING)
     response = currency_xchange_response.json()
