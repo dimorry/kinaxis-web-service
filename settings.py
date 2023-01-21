@@ -15,12 +15,14 @@ KINAXIS_DATA_UPDATE_TRIGGER_PAYLOAD = {
 	"KeepExtract": "False"
 }
 
+# TODO: figure out a way to extract DSM data from RapidResponse to build this configuration dynamically
 KINAXIS_DSM = [{
         "DataSource": "load_currencies_ds",
         "IntegrationScenario": "Currency",
         "files" : [
                     {
                         "Name": "CurrencyConversionActual",
+                        "ExtractService": "CurrencyXChangeRateService",
                         "Payload": {
                                 "Scenario": {
                                     "Name": "Currency",
