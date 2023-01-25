@@ -1,3 +1,5 @@
+import argparse
+
 from datetime import datetime
 from settings import KINAXIS_DATA_UPDATE_TRIGGER_PAYLOAD, KINAXIS_DSM
 
@@ -9,7 +11,7 @@ import importlib.util
 
 
 # TODO: implement logs and tests
-def UploadDataFiles():
+def UploadDataFiles(triggerUpdate: bool=False):
     ts = datetime.now().strftime("%Y%m%d.%H%M%S")
     kws = KinaxisWebService()
     for ds in KINAXIS_DSM:
@@ -40,10 +42,11 @@ def UploadDataFiles():
             kws.upload_data_file(data_source, file_name, payload)
             print(payload)
 
-        # trigger data update
-        payload = KINAXIS_DATA_UPDATE_TRIGGER_PAYLOAD
-        payload['IntegrationScenario'] = integration_scenario
-        kws.trigger_data_update(payload)
+        if triggerUpdate:
+            # trigger data update
+            payload = KINAXIS_DATA_UPDATE_TRIGGER_PAYLOAD
+            payload['IntegrationScenario'] = integration_scenario
+            kws.trigger_data_update(payload)
 
 
 def import_xtract_svc_module(xtract_svc_name: str):
@@ -56,4 +59,10 @@ def import_xtract_svc_module(xtract_svc_name: str):
     
     return module
 
-UploadDataFiles()
+
+parser = argparse.ArgumentParser(description='Run Eaton File Upload service manually.\n\n/!', formatter_class=argparse.RawDescriptionHelpFormatter)
+parser.add_argument('--triggerDataUpdate', default='False', choices=['True', 'False'], help='Indicates if a data update will be triggered after the file upload', required=False)
+args = parser.parse_args()
+
+triggerUpdate = (args.triggerDataUpdate == 'True')
+UploadDataFiles(triggerUpdate)
