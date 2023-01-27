@@ -3,7 +3,6 @@ import argparse
 from datetime import datetime
 from settings import KINAXIS_DATA_UPDATE_TRIGGER_PAYLOAD, KINAXIS_DSM
 
-# from DataExtractServices.CurrencyXChangeRateService import GetXChangeRate
 from KinaxisWebServices.KinaxisWebServices import KinaxisWebService
 
 import sys
