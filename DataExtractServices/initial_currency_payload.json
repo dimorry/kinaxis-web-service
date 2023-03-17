@@ -1,0 +1,1002 @@
+{
+    "dsExchangeRate": {
+      "exchangeRate": [
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "AED",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "AED",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.2722829564",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "ANG",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "ANG",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.5586592179",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "ARS",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "ARS",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0056453958",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "AUD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "AUD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.6795500000",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "BGN",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "BGN",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.5455835016",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "BHD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "BHD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "2.6522033179",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "BRL",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "BRL",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.1891360266",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "BYN",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "BYN",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.3653635367",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "CAD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "CAD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.7385797112",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "CDF",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "CDF",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0004973972",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "CHF",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "CHF",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "1.0828956630",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "CLP",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "CLP",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0011722299",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "CNH",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "CNH",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.1447261781",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "CNY",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "CNY",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.1450084467",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "COP",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "COP",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0002061505",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "CRC",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "CRC",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0016900599",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "CZK",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "CZK",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0441922540",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "DKK",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "DKK",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.1435049653",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "DOP",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "DOP",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0177904287",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "DZD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "DZD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0072826582",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "EGP",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "EGP",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0403878852",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "EUR",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "EUR",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "1.0671500000",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "FJD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "FJD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.4511500000",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "GBP",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "GBP",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "1.2056000000",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "GTQ",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "GTQ",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.1274032229",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "HKD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "HKD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.1282264993",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "HNL",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "HNL",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0404710834",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "HRK",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "HRK",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.1415798900",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "HUF",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "HUF",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0026575954",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "IDR",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "IDR",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0000642158",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "ILS",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "ILS",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.2839295855",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "INR",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "INR",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0120867831",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "JOD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "JOD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "1.4095426034",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "JPY",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "JPY",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0075838010",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "KES",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "KES",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0081033994",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "KRW",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "KRW",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0007934398",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "KWD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "KWD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "3.2672798262",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "KYD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "KYD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "1.2195000000",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "KZT",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "KZT",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0021609941",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "LBP",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "LBP",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0006579705",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "LYD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "LYD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.2071765973",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "MAD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "MAD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0956205775",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "MXN",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "MXN",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0512263590",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "MYR",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "MYR",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.2270405267",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "NGN",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "NGN",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0021683978",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "NIO",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "NIO",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0273884059",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "NOK",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "NOK",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.1015398519",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "NZD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "NZD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.6353000000",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "OMR",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "OMR",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "2.5974363303",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "PAB",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "PAB",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "1.0000000000",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "PEN",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "PEN",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.2623604570",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "PHP",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "PHP",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0179402768",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "PKR",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "PKR",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0044119918",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "PLN",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "PLN",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.2279124360",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "QAR",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "QAR",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.2724907013",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "RON",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "RON",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.2156845829",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "RSD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "RSD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0090950432",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "RUB",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "RUB",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0136739234",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "SAR",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "SAR",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.2660989888",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "SEK",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "SEK",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0959251017",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "SGD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "SGD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.7460181282",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "SYP",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "SYP",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0003333333",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "THB",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "THB",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0289573892",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "TND",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "TND",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.3208264489",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "TRY",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "TRY",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0534272228",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "TWD",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "TWD",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0325409609",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "UAH",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "UAH",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0270876815",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "VES",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "VES",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0591476236",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "VND",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "VND",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0000423146",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "XOF",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "XOF",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0016268604",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        },
+        {
+          "operation": "M",
+          "curr1": "USD",
+          "curr2": "ZAR",
+          "rate": {
+            "curr1": "USD",
+            "curr2": "ZAR",
+            "exrStartDate": "2023-01-01T00:00:00-05:00",
+            "exrEndDate": "2023-01-31T00:00:00-05:00",
+            "rateAmt1": "0.0590106278",
+            "rateAmt2": "1.00",
+            "chgOk": "true"
+          }
+        }
+      ]
+    }
+  }
+   
+  

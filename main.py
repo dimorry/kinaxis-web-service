@@ -10,9 +10,9 @@ import importlib.util
 
 
 # TODO: implement logs and tests
-def UploadDataFiles(triggerUpdate: bool=False):
+def UploadDataFiles(useOAuth: bool=False, triggerUpdate: bool=False):
     ts = datetime.now().strftime("%Y%m%d.%H%M%S")
-    kws = KinaxisWebService()
+    kws = KinaxisWebService(useOAuth)
     for ds in KINAXIS_DSM:
         data_source = ds['DataSource']
         integration_scenario = ds['IntegrationScenario']
@@ -60,8 +60,10 @@ def import_xtract_svc_module(xtract_svc_name: str):
 
 
 parser = argparse.ArgumentParser(description='Run Eaton File Upload service manually.\n\n/!', formatter_class=argparse.RawDescriptionHelpFormatter)
+parser.add_argument('--useOAth', default='False', choices=['True', 'False'], help='Indicates if the web service will be authenticated using oAuth', required=False)
 parser.add_argument('--triggerDataUpdate', default='False', choices=['True', 'False'], help='Indicates if a data update will be triggered after the file upload', required=False)
 args = parser.parse_args()
 
 triggerUpdate = (args.triggerDataUpdate == 'True')
-UploadDataFiles(triggerUpdate)
+useOAuth = (args.useOAuth == 'True')
+UploadDataFiles(useOAuth, triggerUpdate)

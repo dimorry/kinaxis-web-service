@@ -16,8 +16,9 @@ class KinaxisWebService():
 
     """
 
-    def __init__(self) -> None:
+    def __init__(self, useOAuth=False) -> None:
         self.headers = KINAXIS_WS_CREDS
+        self.useOAuth = useOAuth
 
     def upload_data_file(self, dataSource, fileName, payload):
         url = KINAXIS_FILE_UPLOAD_URI \
